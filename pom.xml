@@ -6,6 +6,7 @@
 
   <groupId>com.test.sample</groupId>
   <artifactId>Mytest</artifactId>
+  <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
 
   <name>Mytest</name>
